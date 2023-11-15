@@ -1,0 +1,3 @@
+C:/Users/apm08/CLionProjects/HW5_Q2/cmake-build-debug/CMakeFiles/HW5_Q2.dir
+C:/Users/apm08/CLionProjects/HW5_Q2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/apm08/CLionProjects/HW5_Q2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
